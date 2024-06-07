@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "aktiv-grotesk";
+  src: url("./aktivgroteskbold-webfont.woff2.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "akrobat-extrabold";
+  src: url("./Akrobat-ExtraBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Cent-Notebook";
+  src: url("../font/cent-schoolbook.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
