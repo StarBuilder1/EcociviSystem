@@ -1,6 +1,6 @@
 # EcociviSystem
 Vue.js-based web application for the implementation of customized rating system of enviromental index.
-Tech. stack: HTML/CSS/Javascript/Vue/Node.js/Leaflet 
+<br />Tech. stack: HTML/CSS/Javascript/Vue/Node.js/Leaflet 
 # To Setup the Frontend: ecosys
 
 ```
